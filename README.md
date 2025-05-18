@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AKASH-PRASAD243;
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning data structures in c;
+- ⚡ Fun fact: ... error 404 bio unavailable;
