@@ -62,16 +62,7 @@ I enjoy working with data, understanding patterns, exploring different analytica
 | 4th Semester | 6.73 |
 | 5th Semester | Currently Studying |
 
-## 💼 Work Experience
 
-### 🖥️ Computer Operator
-**School | 1-Year**
-
-- Managed day-to-day computer and office-related tasks
-- Maintained digital records and documents
-- Worked with MS Office and data entry
-- Assisted with school documentation and administrative tasks
-- Handled basic computer systems and technical work
 
 ## 🎯 My Goal
 
